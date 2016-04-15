@@ -1,7 +1,7 @@
 {
   "name": "formula-parser",
   "description": "A parser class for simple formulae.",
-  "version": "1.0.3-1",
+  "version": "1.0.3-2",
   "author": "Ross Kirsling",
   "license": "MIT",
   "repository": "rkirsling/formula-parser",
